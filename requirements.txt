@@ -1,6 +1,7 @@
 pip==24.3.1
 streamlit==1.12.0
 nltk==3.7
+spacy==3.2.4
 pdfplumber==0.7.4
 python-docx==0.8.11
 streamlit_option_menu
